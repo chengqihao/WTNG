@@ -1,4 +1,4 @@
-# WTNG: Efficient Multi-Vector Search via Weight-Template Navigation Graph
+# Experiments of 3D Case
 
 All codes are implemented in C++17
 
