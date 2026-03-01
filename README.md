@@ -6,7 +6,7 @@ All codes are implemented in C++17
 
 * GCC 10.2.0 with OpenMP
 * CMake 3.18.4
-* Boost 1.53
+* Boost 1.73
 
 ## Code Running 
 
@@ -40,4 +40,5 @@ An example of search
 cd ./build/test/
 ./main algorithm_name dataset_name \alpha_1 \alpha_2 max_distance_1 max_distance_2  max_distance_3 search
 ```
+
 
